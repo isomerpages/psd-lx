@@ -9,22 +9,21 @@ notification: This directory is designed for use within the Public Service.
 sections:
   - hero:
       title: Leadership Xchange Directory
-      subtitle: "*A Leaders Building Leaders Initiative*"
+      subtitle: A Leaders Building Leaders Initiative
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: What is the Leadership Xchange Directory?
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Leadership Xchange Directory
+          description: Scroll through now!
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Be part of the Directory
+          description: Sign up today!
           url: /privacy/
       variant: floating
-      size: sm
+      size: md
       alignment: left
       backgroundColor: gray
   - infobar:
