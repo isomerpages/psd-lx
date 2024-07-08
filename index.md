@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is the Leadership Xchange Directory?
           description: ""
-          url: https://google.com
+          url: /Infopic/
         - title: Leadership Xchange Directory
           description: Scroll through now!
           url: https://gmail.com
@@ -26,4 +26,11 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
