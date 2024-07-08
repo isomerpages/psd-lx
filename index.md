@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is the Leadership Xchange Directory?
           description: ""
-          url: /Infopic/
+          url: /what-is-lx
         - title: Leadership Xchange Directory
           description: Scroll through now!
           url: https://gmail.com
@@ -26,11 +26,25 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
       button: Button Text
-      alt: Image alt text
+  - infocols:
+      title: Leadership Xchange Directory
+      subtitle: More on
+      id: infocols
+      url: /what-is-LX
+      infoboxes:
+        - title: What?
+          description: Informal support network for leaders to offer advice and share
+            their leadership experiences with others.
+        - title: Who?
+          description: Anyone, young officers or established leaders, can reach out for
+            advice and support.
+        - title: How?
+          description: Simply get in touch with any leader(s) that you wish to connect
+            with via email.
 ---
