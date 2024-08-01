@@ -26,12 +26,6 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - infocols:
       title: Leadership Xchange Directory
       subtitle: More on
