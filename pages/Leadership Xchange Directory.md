@@ -31,7 +31,7 @@ description: ""
 <p>Roles/Domains/Technical Background</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Click here to email me!</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ sector (Shell, SGX)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:clifton_chow@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p><a href="mailto:clifton_chow@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Click here to connect!</a>
 </p>
 </td>
 </tr>
