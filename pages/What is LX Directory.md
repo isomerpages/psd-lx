@@ -17,6 +17,6 @@ you have&nbsp;charted a path for a unit undergoing transformation, or how
 you have&nbsp;dealt with personal challenges and opportunities over the
 years.</p>
 <p></p>
-<p>Refer to the next tab for the Directory for Leadership Xchange.
+<p>Click here to refer to the next tab for the Directory for Leadership Xchange.
 <br>
 </p>
