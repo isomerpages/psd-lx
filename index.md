@@ -18,7 +18,7 @@ sections:
           url: /what-is-lx/
         - title: Leadership Xchange Directory
           description: Scroll through now!
-          url: https://gmail.com
+          url: /leadership-xchange-directory/
         - title: Be part of the Directory
           description: Sign up today!
           url: /privacy/
