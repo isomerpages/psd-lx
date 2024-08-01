@@ -30,7 +30,6 @@ sections:
       title: Leadership Xchange Directory
       subtitle: More on
       id: infocols
-      url: /what-is-LX
       infoboxes:
         - title: What?
           description: Informal support network for leaders to offer advice and share
