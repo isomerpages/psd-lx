@@ -4,6 +4,18 @@ permalink: /leadership-xchange-directory/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<p>Hi! We are fellow public officers who have started the leadership journey
+earlier, gone through some knocks and challenges, and you are likely to
+face these too. We are offering our time (only if you find it useful) and
+experience, to share how we responded to some of those knocks and challenges.
+And hopefully, when you walk your own leadership path, it will be just
+that little smoother and easier.</p>
+<p>If you are keen to have a chat, connect with us below!</p>
+<p></p>
+</blockquote>
+<p></p>
+<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -31,7 +43,7 @@ description: ""
 <p>Roles/Domains/Technical Background</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Connect</p>
 </th>
 </tr>
 <tr>
@@ -40,6 +52,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Melissa Khoo</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Executive, CPFB</p>
