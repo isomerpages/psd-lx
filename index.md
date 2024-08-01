@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is the Leadership Xchange Directory?
           description: ""
-          url: /what-is-lx
+          url: /what-is-lx/
         - title: Leadership Xchange Directory
           description: Scroll through now!
           url: https://gmail.com
