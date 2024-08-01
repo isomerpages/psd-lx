@@ -58,12 +58,10 @@ happy to be a sounding board.&nbsp;</p>
 and currently growing a yummy edible garden.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Past Experience</strong>:&nbsp;</p>
-<p>MOE/Civil service college/PMO-strategy/MOH (ageing planning office)/ Private
-sector (Shell, SGX)</p>
-<p><strong>Domains:</strong>
-</p>
-<p>Education/ Ageing/ Public Engagement/ Leadership development</p>
+<p><strong>Past Experience</strong>:&nbsp;MOE/Civil service college/PMO-strategy
+/MOH (ageing planning office)/ Private sector (Shell, SGX)</p>
+<p><strong>Domains: </strong>Education/ Ageing/ Public Engagement/ Leadership
+development</p>
 <p></p>
 <p>Currently a Public Service Coach with CSC milestone programmes.&nbsp;</p>
 <p>
