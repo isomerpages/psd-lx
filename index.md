@@ -21,7 +21,7 @@ sections:
           url: /leadership-xchange-directory/
         - title: Be part of the Directory
           description: Sign up today!
-          url: /privacy/
+          url: /sign-up-lx/
       variant: floating
       size: md
       alignment: left
