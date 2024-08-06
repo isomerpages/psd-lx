@@ -14,10 +14,11 @@ that little smoother and easier.</p>
 <p>If you are keen to have a chat, connect with us below!</p>
 <p></p>
 </blockquote>
+<h3></h3>
 <p></p>
-<p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -28,27 +29,33 @@ that little smoother and easier.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>S/N</p>
+<h4><strong>S/N</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<h4><strong>Photo</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<h4><strong>Name</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Self-Description</p>
+<h4><strong>Designation</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Roles/Domains/Technical Background</p>
+<h4><strong>Self-Description</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Connect</p>
+<h4><strong>Roles/Domains/Technical Background</strong></h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4><strong>Connect</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Melissa Khoo</p>
@@ -88,6 +95,9 @@ development</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
