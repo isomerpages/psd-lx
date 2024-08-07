@@ -90,7 +90,7 @@ development</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:clifton_chow@psd.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Click here to connect!</a>
+<p><a href="https://go.gov.sg/clifton" rel="noopener noreferrer nofollow" target="_blank">Connect</a>
 </p>
 </td>
 </tr>
