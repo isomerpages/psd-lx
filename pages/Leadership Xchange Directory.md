@@ -16,9 +16,8 @@ that little smoother and easier.</p>
 </blockquote>
 <h3></h3>
 <p></p>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -45,9 +44,6 @@ that little smoother and easier.</p>
 </th>
 <th rowspan="1" colspan="1">
 <h4><strong>Roles/Domains/Technical Background</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong>Connect</strong></h4>
 </th>
 </tr>
 <tr>
@@ -89,15 +85,8 @@ development</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/clifton" rel="noopener noreferrer nofollow" target="_blank">Connect</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
