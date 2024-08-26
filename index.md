@@ -17,11 +17,14 @@ sections:
           description: ""
           url: /what-is-lx/
         - title: Leadership Xchange Directory
-          description: Scroll through now!
+          description: List of leaders
           url: /leadership-xchange-directory/
+        - title: Connect with a Leader
+          description: Fill up the form here
+          url: /sign-up-lx/
         - title: Be part of the Directory
           description: Sign up today!
-          url: /sign-up-lx/
+          url: ""
       variant: floating
       size: md
       alignment: left
