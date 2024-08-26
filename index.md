@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: What is the Leadership Xchange Directory?
           description: ""
-          url: /what-is-lx/
+          url: /lx-overview/
         - title: Leadership Xchange Directory
           description: List of leaders
-          url: /leadership-xchange-directory/
+          url: /lx-directory/
         - title: Connect with a Leader
           description: Fill up the form here
-          url: /sign-up-lx/
+          url: /lx-connect/
         - title: Be part of the Directory
           description: Sign up today!
-          url: ""
+          url: /lx-sign-up/
       variant: floating
       size: md
       alignment: left
