@@ -1,4 +1,5 @@
 collections:
   lx-navigation:
     output: true
-    order: []
+    order:
+      - LX Navigation.md
