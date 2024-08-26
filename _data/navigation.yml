@@ -2,3 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Leadership Xchange Directory
     url: /lx-directory/
+  - title: Connect with a leader
+    url: /lx-connect
+  - title: Sign up for the LX Directory
+    url: /lx-sign-up
+  - title: Resources
+    resource_room: true
