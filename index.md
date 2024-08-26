@@ -40,7 +40,10 @@ sections:
         - title: Who?
           description: Anyone, young officers or established leaders, can reach out for
             advice and support.
+        - title: Where
+          description: You may find the list of leaders for informal support under the
+            "Leadership Xchange Directory".
         - title: How?
-          description: Simply get in touch with any leader(s) that you wish to connect
-            with via email.
+          description: Simply fill up the FormSG under "Connect with a Leader" to get in
+            touch with a LX Leader.
 ---
